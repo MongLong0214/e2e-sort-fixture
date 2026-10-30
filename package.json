@@ -1,0 +1,13 @@
+{
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "index.js",
+  "name": "e2e-sort-fixture",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}
